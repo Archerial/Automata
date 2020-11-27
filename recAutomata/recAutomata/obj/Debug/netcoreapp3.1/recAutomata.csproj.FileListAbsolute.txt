@@ -1,0 +1,13 @@
+C:\Users\Adam\Desktop\recAutomata\recAutomata\bin\Debug\netcoreapp3.1\recAutomata.exe
+C:\Users\Adam\Desktop\recAutomata\recAutomata\bin\Debug\netcoreapp3.1\recAutomata.deps.json
+C:\Users\Adam\Desktop\recAutomata\recAutomata\bin\Debug\netcoreapp3.1\recAutomata.runtimeconfig.json
+C:\Users\Adam\Desktop\recAutomata\recAutomata\bin\Debug\netcoreapp3.1\recAutomata.runtimeconfig.dev.json
+C:\Users\Adam\Desktop\recAutomata\recAutomata\bin\Debug\netcoreapp3.1\recAutomata.dll
+C:\Users\Adam\Desktop\recAutomata\recAutomata\bin\Debug\netcoreapp3.1\recAutomata.pdb
+C:\Users\Adam\Desktop\recAutomata\recAutomata\obj\Debug\netcoreapp3.1\recAutomata.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\recAutomata\recAutomata\obj\Debug\netcoreapp3.1\recAutomata.AssemblyInfoInputs.cache
+C:\Users\Adam\Desktop\recAutomata\recAutomata\obj\Debug\netcoreapp3.1\recAutomata.AssemblyInfo.cs
+C:\Users\Adam\Desktop\recAutomata\recAutomata\obj\Debug\netcoreapp3.1\recAutomata.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\recAutomata\recAutomata\obj\Debug\netcoreapp3.1\recAutomata.dll
+C:\Users\Adam\Desktop\recAutomata\recAutomata\obj\Debug\netcoreapp3.1\recAutomata.pdb
+C:\Users\Adam\Desktop\recAutomata\recAutomata\obj\Debug\netcoreapp3.1\recAutomata.genruntimeconfig.cache
