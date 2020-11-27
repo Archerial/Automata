@@ -10,7 +10,7 @@ namespace finitAutomat
         class automata
         {
             string state = "A";
-            string input = "+110";
+            //string input = "+110";
             Dictionary<String, String> D = new Dictionary<String, String>();
 
             public void prepare()
@@ -76,12 +76,12 @@ namespace finitAutomat
                     Console.WriteLine("{0} helyes bemenet", input);
                 } else
                 {
-                    Console.WriteLine("{0} nem helyes bemenő adat. Hibás karakter található a {1}. helyen",input, i );
+                    Console.WriteLine("{0} nem helyes bemenő adat. Hibás karakter található a {1}. helyen",input,i);
                 }
+                state = "A";
+                i = 0;
                 unPrepare();
-
             }
-
         }
 
         static void Main(string[] args)
@@ -93,15 +93,13 @@ namespace finitAutomat
             {
                 helper += sr.ReadLine();
             }
-            automata A = new automata();
             String[] sArray = helper.Split(" ");
-            for (int i = 0; i < sArray.Length; i++)
+            automata A = new automata();
+
+            foreach (string i in sArray)
             {
-                A.main(sArray[i]);
+                A.main(i);
             }
-           
-
-
         }
     }
 }
