@@ -1,0 +1,13 @@
+C:\Users\Adam\Desktop\finitAutomat\finitAutomat\bin\Debug\netcoreapp3.1\finitAutomat.exe
+C:\Users\Adam\Desktop\finitAutomat\finitAutomat\bin\Debug\netcoreapp3.1\finitAutomat.deps.json
+C:\Users\Adam\Desktop\finitAutomat\finitAutomat\bin\Debug\netcoreapp3.1\finitAutomat.runtimeconfig.json
+C:\Users\Adam\Desktop\finitAutomat\finitAutomat\bin\Debug\netcoreapp3.1\finitAutomat.runtimeconfig.dev.json
+C:\Users\Adam\Desktop\finitAutomat\finitAutomat\bin\Debug\netcoreapp3.1\finitAutomat.dll
+C:\Users\Adam\Desktop\finitAutomat\finitAutomat\bin\Debug\netcoreapp3.1\finitAutomat.pdb
+C:\Users\Adam\Desktop\finitAutomat\finitAutomat\obj\Debug\netcoreapp3.1\finitAutomat.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\finitAutomat\finitAutomat\obj\Debug\netcoreapp3.1\finitAutomat.AssemblyInfoInputs.cache
+C:\Users\Adam\Desktop\finitAutomat\finitAutomat\obj\Debug\netcoreapp3.1\finitAutomat.AssemblyInfo.cs
+C:\Users\Adam\Desktop\finitAutomat\finitAutomat\obj\Debug\netcoreapp3.1\finitAutomat.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\finitAutomat\finitAutomat\obj\Debug\netcoreapp3.1\finitAutomat.dll
+C:\Users\Adam\Desktop\finitAutomat\finitAutomat\obj\Debug\netcoreapp3.1\finitAutomat.pdb
+C:\Users\Adam\Desktop\finitAutomat\finitAutomat\obj\Debug\netcoreapp3.1\finitAutomat.genruntimeconfig.cache
